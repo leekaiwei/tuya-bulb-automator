@@ -1,0 +1,26 @@
+{
+  "delay": 90000,
+  "location": {
+    "latitude": 0,
+    "longitude": 0
+  },
+  "testing": false,
+  "turnOffKeys": [3675, 38],
+  "devices": [
+    {
+      "id": "",
+      "key": "",
+      "name": ""
+    },
+    {
+      "id": "",
+      "key": "",
+      "name": ""
+    },
+    {
+      "id": "",
+      "key": "",
+      "name": ""
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "tuya-controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-exit-hook": "^2.0.1",
+    "axios": "^0.21.0",
+    "iohook": "^0.6.6",
+    "moment": "^2.29.1",
+    "tuyapi": "github:codetheweb/tuyapi"
+  },
+  "iohook": {
+    "targets": [
+      "node-12.16.1"
+    ],
+    "platforms": [
+      "win32"
+    ],
+    "arches": [
+      "x64"
+    ]
+  }
+}
